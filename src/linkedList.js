@@ -154,7 +154,6 @@ export function LinkedList() {
             previous = newNode;
           }
         }
-        console.log(this.toString());
         return;
       }
 
